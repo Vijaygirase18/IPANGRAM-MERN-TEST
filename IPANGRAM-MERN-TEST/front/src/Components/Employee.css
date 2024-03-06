@@ -1,0 +1,113 @@
+/* .employee-dashboard {
+    margin: 20px auto;
+    width: 80%;
+}
+
+.employee-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.employee-table th,
+.employee-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.employee-table th {
+    background-color: #f2f2f2;
+}
+
+.employee-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.employee-table tr:hover {
+    background-color: #ddd;
+}
+body{
+    background-color:aqua;
+    }
+    
+    
+    .employee-dashboard-container {
+        padding: 20px;
+       
+    }
+    
+    .employee-icon {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 20px;
+        font-size: 24px;
+        color: #333;
+    }
+    
+    .employee-dashboard-heading {
+        text-align: center;
+        margin-bottom: 20px;
+        font-size: 24px;
+        color: #333;
+    }
+    
+    .table-responsive {
+        overflow-x: auto;
+    }
+    
+    .employee-table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    
+    .employee-table th,
+    .employee-table td {
+        padding: 10px;
+        border: 1px solid #ddd;
+        text-align: center;
+    }
+    
+    .employee-table th {
+        background-color: #f2f2f2;
+        font-weight: bold;
+    }
+    
+    .employee-table input[type="text"] {
+        width: 100%;
+        padding: 8px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+    }
+    
+    .employee-table input[type="text"]:focus {
+        outline: none;
+        border-color: #007bff;
+    }
+    
+    .employee-table input::placeholder {
+        color: #aaa;
+    }
+    
+    .employee-table input[type="text"]:hover {
+        background-color: #f9f9f9;
+    }
+    
+    .employee-table input:disabled {
+        background-color: #eee;
+        cursor: not-allowed;
+    }
+    
+    .employee-icon {
+        position: absolute;
+        top: 20px;
+        right: 20px;
+        font-size: 24px;
+        color: #333; /* Adjust the color as needed */
+       /* Add a pointer cursor to indicate interactivity */
+
+    
+    
+ 
